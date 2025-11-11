@@ -1,0 +1,1 @@
+Card purchases: Purchases, Point of sale: Free, Card purchases: Cashback, Point of sale: Free, Card purchases: Purchase with cashback, Point of sale: Free, Card purchases: International purchases, Point of sale: 2.75% of value, Card purchases: POS decline, Point of sale: R8.50, 

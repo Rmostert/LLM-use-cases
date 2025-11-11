@@ -1,0 +1,22 @@
+R130
+–
+–
+Future dated
+R130
+–
+–
+Disputed debit orders under 40 days
+Values under R500: R5  | Values R500 to R1 000: R10
+–
+R50
+Disputed debit orders above 40 days (debit orders cannot be reversed 
+if the payment is older than 6 months)
+–
+–
+R150
+Honouring fee (If the value of the transaction is less than R100, the 
+honouring fee will be equal to the full value of the transaction that is honoured.)
+R100
+–
+–
+*The Honouring fee is charged when the remaining balance on your account is not sufficient to cover a transaction that goes off your account. For example, if there is R20 left in the account, and a debit order for R50 is set to debit, we will “honour” the transaction (up to an
