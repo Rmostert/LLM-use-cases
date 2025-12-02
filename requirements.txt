@@ -13,3 +13,9 @@ python-dotenv
 pgvector==0.2.3
 psycopg-binary
 numpy==1.26.4
+torch
+transformers
+datasets
+openai
+tiktoken
+wordcloud
