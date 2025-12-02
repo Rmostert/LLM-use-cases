@@ -1,1 +1,0 @@
-Overdraft fees: Monthly service fee - applicable for both limitised and non-limitised accounts(In the case of an account with no overdraft limit, this fee is charged at month-end if the account is in debit balance by an amount of R200 or more), Unnamed: 0: R69, Overdraft fees: Initiation fee, Unnamed: 0: R74.75 + 11.5% of limit.Max R1 207, 
