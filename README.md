@@ -25,4 +25,7 @@ In this project, I will be using an LLM to summarise hotel reviews into specific
 
 The requiremets.txt file contains all the python libraries that were used for these projects. The easiest way to reproduce these results is to make use of a virtual environment (e.g conda) as follows
 
-`conda create --name <env_name> --file requirements.txt`
+```
+conda env create -f environment.yml
+source activate environment.yml
+```
