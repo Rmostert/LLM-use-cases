@@ -27,5 +27,5 @@ The requiremets.txt file contains all the python libraries that were used for th
 
 ```
 conda env create -f environment.yml
-source activate environment.yml
+source activate GenAI
 ```
